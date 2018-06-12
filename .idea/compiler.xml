@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="eureka-server" />
         <module name="eurekaserver" />
         <module name="service-feign" />
         <module name="service-hi" />
@@ -19,6 +20,7 @@
     <bytecodeTargetLevel>
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
